@@ -43,6 +43,10 @@
   border-radius: 10px;
 }
 
+.on {
+  background: yellow;
+}
+
 /******* RACETRACK ******/
 #racetrack {
   background: green;
@@ -64,7 +68,7 @@
 }
 
 #pre-staged {
-  left: 39px;
+  left: 50px;
   background: yellow;
 }
 
@@ -74,7 +78,7 @@
 }
 
 #staged {
-  left: 93px;
+  left: 113px;
   background: yellow;
 }
 
